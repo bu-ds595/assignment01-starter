@@ -2,9 +2,11 @@
 
 Design, implement, and critically analyze a novel MCMC sampling method.
 
+📄 **[Assignment description (PDF)](assignment-01.pdf)** | 🤖 **[AI coding assistants guide](https://github.com/bu-ds595/course-materials-spring26/blob/main/notes/xx-agents.md)**
+
 ## Overview
 
-In this assignment, you'll work with AI assistants to create a new MCMC sampler and rigorously evaluate it against standard baselines (Random Walk MH and HMC) on two challenging benchmark distributions.
+In this assignment, you'll work with AI coding assistants to create a new MCMC sampler and rigorously evaluate it against standard baselines (Random Walk MH and HMC) on two challenging benchmark distributions.
 
 **Due:** Wednesday, February 18
 **Weight:** 15% of final grade
@@ -66,6 +68,7 @@ You can push multiple times. Only the final version at the deadline will be grad
 ## Resources
 
 - [Assignment description (PDF)](assignment-01.pdf)
+- [AI coding assistants guide](https://github.com/bu-ds595/course-materials-spring26/blob/main/notes/xx-agents.md)
 - [BlackJAX documentation](https://blackjax-devs.github.io/blackjax/)
 - [ArviZ documentation](https://python.arviz.org/)
 
