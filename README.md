@@ -65,6 +65,6 @@ You can push multiple times. Only the final version at the deadline will be grad
 
 ## Resources
 
-- [Assignment description (PDF)](https://bu-ds595.github.io/course-materials-spring26/notes/assignment-01.pdf)
+- [Assignment description (PDF)](assignment-01.pdf)
 - [BlackJAX documentation](https://blackjax-devs.github.io/blackjax/)
 - [ArviZ documentation](https://python.arviz.org/)
