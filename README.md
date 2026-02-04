@@ -68,8 +68,7 @@ You can push multiple times. Only the final version at the deadline will be grad
 
 ## Resources
 
-- [Assignment description (PDF)](assignment-01.pdf)
-- [AI coding assistants guide](https://github.com/bu-ds595/course-materials-spring26/blob/main/notes/xx-agents.md)
+- [Course notes: MCMC & Variational Inference](https://bu-ds595.github.io/course-materials-spring26/notes/02-mcmc-vi.pdf)
 - [BlackJAX documentation](https://blackjax-devs.github.io/blackjax/)
 - [ArviZ documentation](https://python.arviz.org/)
 
