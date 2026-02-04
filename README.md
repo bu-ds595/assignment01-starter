@@ -1,5 +1,7 @@
 # Assignment 1: Sampler Synthesis
 
+**⏰ Due: Wednesday, February 18** | 15% of final grade
+
 Design, implement, and critically analyze a novel MCMC sampling method.
 
 📄 **[Assignment description (PDF)](assignment-01.pdf)** | 🤖 **[AI coding assistants guide](https://github.com/bu-ds595/course-materials-spring26/blob/main/notes/xx-agents.md)**
@@ -7,9 +9,6 @@ Design, implement, and critically analyze a novel MCMC sampling method.
 ## Overview
 
 In this assignment, you'll work with AI coding assistants to create a new MCMC sampler and rigorously evaluate it against standard baselines (Random Walk MH and HMC) on two challenging benchmark distributions.
-
-**Due:** Wednesday, February 18
-**Weight:** 15% of final grade
 
 ## Structure
 
