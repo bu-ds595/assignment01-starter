@@ -68,3 +68,4 @@ You can push multiple times. Only the final version at the deadline will be grad
 - [Assignment description (PDF)](assignment-01.pdf)
 - [BlackJAX documentation](https://blackjax-devs.github.io/blackjax/)
 - [ArviZ documentation](https://python.arviz.org/)
+
